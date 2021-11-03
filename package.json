@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/LuisMendoza1979/Node-restfull31Luis/issues"
   },
-  "homepage": "https://github.com/LuisMendoza1979/Node-restfull31Luis#readme"
+  "homepage": "https://github.com/LuisMendoza1979/Node-restfull31Luis#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
 }
