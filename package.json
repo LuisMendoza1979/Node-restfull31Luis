@@ -1,0 +1,20 @@
+{
+  "name": "node-restfull31luis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisMendoza1979/Node-restfull31Luis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisMendoza1979/Node-restfull31Luis/issues"
+  },
+  "homepage": "https://github.com/LuisMendoza1979/Node-restfull31Luis#readme"
+}
